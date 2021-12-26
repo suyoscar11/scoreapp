@@ -1,4 +1,4 @@
-# scoreapp
+# Score App
 
 A new Flutter project.
 
